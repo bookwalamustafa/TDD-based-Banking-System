@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="banking.TransferCommandValidatorTest" tests="39" skipped="0" failures="0" errors="0" timestamp="2023-12-12T00:53:51" hostname="Mustafas-MacBook-Air.local" time="0.163">
+  <properties/>
+  <testcase name="more_arguments_than_required()" classname="banking.TransferCommandValidatorTest" time="0.013"/>
+  <testcase name="deposit_ID_has_more_than_eight_digits()" classname="banking.TransferCommandValidatorTest" time="0.001"/>
+  <testcase name="less_arguments_than_required()" classname="banking.TransferCommandValidatorTest" time="0.001"/>
+  <testcase name="transfer_negative_amount_from_checking_to_savings()" classname="banking.TransferCommandValidatorTest" time="0.001"/>
+  <testcase name="transfer_negative_amount_between_checking_accounts()" classname="banking.TransferCommandValidatorTest" time="0.023"/>
+  <testcase name="deposit_ID_has_less_than_eight_digits()" classname="banking.TransferCommandValidatorTest" time="0.001"/>
+  <testcase name="transfer_zero_dollars_between_savings_accounts()" classname="banking.TransferCommandValidatorTest" time="0.009"/>
+  <testcase name="transfer_between_same_checking_account()" classname="banking.TransferCommandValidatorTest" time="0.0"/>
+  <testcase name="valid_transfer_from_checking_to_savings()" classname="banking.TransferCommandValidatorTest" time="0.0"/>
+  <testcase name="withdraw_ID_has_invalid_character()" classname="banking.TransferCommandValidatorTest" time="0.001"/>
+  <testcase name="both_ID_are_invalid()" classname="banking.TransferCommandValidatorTest" time="0.0"/>
+  <testcase name="transfer_within_checking()" classname="banking.TransferCommandValidatorTest" time="0.001"/>
+  <testcase name="transfer_within_savings()" classname="banking.TransferCommandValidatorTest" time="0.001"/>
+  <testcase name="transfer_more_than_four_hundred_dollars_from_checking_to_savings()" classname="banking.TransferCommandValidatorTest" time="0.001"/>
+  <testcase name="transfer_zero_dollars_between_checking_accounts()" classname="banking.TransferCommandValidatorTest" time="0.002"/>
+  <testcase name="deposit_ID_has_invalid_character()" classname="banking.TransferCommandValidatorTest" time="0.0"/>
+  <testcase name="transfer_is_withdrawing_from_ID_that_does_not_exist()" classname="banking.TransferCommandValidatorTest" time="0.001"/>
+  <testcase name="transfer_more_than_one_thousand_dollars_between_savings_accounts()" classname="banking.TransferCommandValidatorTest" time="0.002"/>
+  <testcase name="withdrawal_ID_has_more_than_eight_digits()" classname="banking.TransferCommandValidatorTest" time="0.03"/>
+  <testcase name="transfer_negative_amount_from_savings_to_checking()" classname="banking.TransferCommandValidatorTest" time="0.002"/>
+  <testcase name="invalid_character_in_transfer_amount_provided()" classname="banking.TransferCommandValidatorTest" time="0.001"/>
+  <testcase name="transfer_is_depositing_into_ID_that_does_not_exist()" classname="banking.TransferCommandValidatorTest" time="0.0"/>
+  <testcase name="empty_command()" classname="banking.TransferCommandValidatorTest" time="0.001"/>
+  <testcase name="withdrawal_ID_has_less_than_eight_digits()" classname="banking.TransferCommandValidatorTest" time="0.0"/>
+  <testcase name="transfer_maximum_four_hundred_dollars_from_checking_to_savings()" classname="banking.TransferCommandValidatorTest" time="0.001"/>
+  <testcase name="incorrect_spelling_for_transfer()" classname="banking.TransferCommandValidatorTest" time="0.0"/>
+  <testcase name="transfer_maximum_four_hundred_dollars_between_checking_accounts()" classname="banking.TransferCommandValidatorTest" time="0.001"/>
+  <testcase name="transfer_is_trying_to_deposit_into_CD_account()" classname="banking.TransferCommandValidatorTest" time="0.006"/>
+  <testcase name="transfer_maximum_one_thousand_dollars_between_savings_accounts()" classname="banking.TransferCommandValidatorTest" time="0.003"/>
+  <testcase name="valid_transfer_from_savings_to_checking()" classname="banking.TransferCommandValidatorTest" time="0.002"/>
+  <testcase name="transfer_is_trying_to_withdraw_from_CD_account()" classname="banking.TransferCommandValidatorTest" time="0.0"/>
+  <testcase name="transfer_more_than_four_hundred_dollars_between_checking_accounts()" classname="banking.TransferCommandValidatorTest" time="0.0"/>
+  <testcase name="transfer_between_same_savings_account()" classname="banking.TransferCommandValidatorTest" time="0.001"/>
+  <testcase name="transfer_negative_amount_between_savings_accounts()" classname="banking.TransferCommandValidatorTest" time="0.0"/>
+  <testcase name="transfer_twice_from_savings_account_in_one_month()" classname="banking.TransferCommandValidatorTest" time="0.003"/>
+  <testcase name="transfer_zero_dollars_from_savings_to_checking()" classname="banking.TransferCommandValidatorTest" time="0.001"/>
+  <testcase name="valid_for_case_sensitive_commands()" classname="banking.TransferCommandValidatorTest" time="0.002"/>
+  <testcase name="everything_wrong()" classname="banking.TransferCommandValidatorTest" time="0.001"/>
+  <testcase name="transfer_zero_dollars_from_checkings_to_savings()" classname="banking.TransferCommandValidatorTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

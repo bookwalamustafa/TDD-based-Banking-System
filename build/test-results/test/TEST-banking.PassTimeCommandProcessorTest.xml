@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="banking.PassTimeCommandProcessorTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2023-12-12T00:53:52" hostname="Mustafas-MacBook-Air.local" time="0.004">
+  <properties/>
+  <testcase name="pass_time_for_CD_account()" classname="banking.PassTimeCommandProcessorTest" time="0.0"/>
+  <testcase name="balance_greater_than_zero()" classname="banking.PassTimeCommandProcessorTest" time="0.0"/>
+  <testcase name="pass_time_twice()" classname="banking.PassTimeCommandProcessorTest" time="0.001"/>
+  <testcase name="account_closes_if_balance_is_zero()" classname="banking.PassTimeCommandProcessorTest" time="0.001"/>
+  <testcase name="balance_between_zero_and_one_hundred_dollars()" classname="banking.PassTimeCommandProcessorTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

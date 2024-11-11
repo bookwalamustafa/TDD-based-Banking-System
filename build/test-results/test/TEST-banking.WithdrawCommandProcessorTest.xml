@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="banking.WithdrawCommandProcessorTest" tests="12" skipped="0" failures="0" errors="0" timestamp="2023-12-12T00:53:52" hostname="Mustafas-MacBook-Air.local" time="0.007">
+  <properties/>
+  <testcase name="withdraw_more_than_maximum_from_CD_after_12_months()" classname="banking.WithdrawCommandProcessorTest" time="0.0"/>
+  <testcase name="withdraw_twice_from_savings_account_after_one_month()" classname="banking.WithdrawCommandProcessorTest" time="0.0"/>
+  <testcase name="maximum_withdrawal_from_checking()" classname="banking.WithdrawCommandProcessorTest" time="0.0"/>
+  <testcase name="withdraw_entire_amount_from_savings()" classname="banking.WithdrawCommandProcessorTest" time="0.0"/>
+  <testcase name="withdraw_entire_amount_from_checking()" classname="banking.WithdrawCommandProcessorTest" time="0.001"/>
+  <testcase name="withdraw_less_money_than_present_from_checkings()" classname="banking.WithdrawCommandProcessorTest" time="0.0"/>
+  <testcase name="maximum_withdrawal_from_CD_after_12_months()" classname="banking.WithdrawCommandProcessorTest" time="0.0"/>
+  <testcase name="withdraw_zero_amount_from_checking()" classname="banking.WithdrawCommandProcessorTest" time="0.0"/>
+  <testcase name="withdraw_twice_from_checking_account()" classname="banking.WithdrawCommandProcessorTest" time="0.0"/>
+  <testcase name="maximum_withdrawal_from_savings()" classname="banking.WithdrawCommandProcessorTest" time="0.001"/>
+  <testcase name="withdraw_zero_amount_from_savings()" classname="banking.WithdrawCommandProcessorTest" time="0.0"/>
+  <testcase name="withdraw_less_money_than_present_from_savings()" classname="banking.WithdrawCommandProcessorTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

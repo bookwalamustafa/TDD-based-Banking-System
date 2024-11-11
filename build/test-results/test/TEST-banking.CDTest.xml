@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="banking.CDTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-12-12T00:53:52" hostname="Mustafas-MacBook-Air.local" time="0.001">
+  <properties/>
+  <testcase name="starting_balance_is_supplied_balance()" classname="banking.CDTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

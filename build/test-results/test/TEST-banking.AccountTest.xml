@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="banking.AccountTest" tests="15" skipped="0" failures="0" errors="0" timestamp="2023-12-12T00:53:52" hostname="Mustafas-MacBook-Air.local" time="0.008">
+  <properties/>
+  <testcase name="withdrawing_twice_from_cd()" classname="banking.AccountTest" time="0.001"/>
+  <testcase name="withdrawing_from_savings()" classname="banking.AccountTest" time="0.0"/>
+  <testcase name="depositing_into_cd()" classname="banking.AccountTest" time="0.0"/>
+  <testcase name="apr_is_correct_checking()" classname="banking.AccountTest" time="0.0"/>
+  <testcase name="withdrawing_twice_from_checking()" classname="banking.AccountTest" time="0.0"/>
+  <testcase name="withdrawing_from_checking()" classname="banking.AccountTest" time="0.0"/>
+  <testcase name="apr_is_correct_cd()" classname="banking.AccountTest" time="0.0"/>
+  <testcase name="depositing_twice_into_savings()" classname="banking.AccountTest" time="0.0"/>
+  <testcase name="withdrawing_from_cd()" classname="banking.AccountTest" time="0.0"/>
+  <testcase name="depositing_into_savings()" classname="banking.AccountTest" time="0.001"/>
+  <testcase name="depositing_twice_into_cd()" classname="banking.AccountTest" time="0.001"/>
+  <testcase name="withdrawing_twice_from_savings()" classname="banking.AccountTest" time="0.0"/>
+  <testcase name="apr_is_correct_savings()" classname="banking.AccountTest" time="0.0"/>
+  <testcase name="depositing_twice_into_checking()" classname="banking.AccountTest" time="0.0"/>
+  <testcase name="depositing_into_checking()" classname="banking.AccountTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

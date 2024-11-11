@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="banking.TransferCommandProcessorTest" tests="17" skipped="0" failures="0" errors="0" timestamp="2023-12-12T00:53:52" hostname="Mustafas-MacBook-Air.local" time="0.012">
+  <properties/>
+  <testcase name="transfer_within_savings_after_a_month()" classname="banking.TransferCommandProcessorTest" time="0.001"/>
+  <testcase name="transfer_maximum_one_thousand_dollars_from_savings_to_checking()" classname="banking.TransferCommandProcessorTest" time="0.001"/>
+  <testcase name="transfer_from_savings_to_checking()" classname="banking.TransferCommandProcessorTest" time="0.0"/>
+  <testcase name="transfer_maximum_four_hundred_dollars_within_checking()" classname="banking.TransferCommandProcessorTest" time="0.001"/>
+  <testcase name="transfer_from_savings_to_checking_after_a_month()" classname="banking.TransferCommandProcessorTest" time="0.0"/>
+  <testcase name="transfer_zero_dollars_from_checking_to_savings()" classname="banking.TransferCommandProcessorTest" time="0.001"/>
+  <testcase name="transfer_maximum_four_hundred_dollars_from_checking_to_savings()" classname="banking.TransferCommandProcessorTest" time="0.0"/>
+  <testcase name="transfer_within_checking_accounts()" classname="banking.TransferCommandProcessorTest" time="0.0"/>
+  <testcase name="transfer_within_savings_accounts()" classname="banking.TransferCommandProcessorTest" time="0.001"/>
+  <testcase name="transfer_more_than_balance_from_savings_to_checking()" classname="banking.TransferCommandProcessorTest" time="0.0"/>
+  <testcase name="multiple_transfers_from_checking_to_savings()" classname="banking.TransferCommandProcessorTest" time="0.0"/>
+  <testcase name="transfer_zero_dollars_within_savings()" classname="banking.TransferCommandProcessorTest" time="0.0"/>
+  <testcase name="transfer_maximum_one_thousand_dollars_within_savings()" classname="banking.TransferCommandProcessorTest" time="0.002"/>
+  <testcase name="multiple_transfers_within_checking()" classname="banking.TransferCommandProcessorTest" time="0.0"/>
+  <testcase name="transfer_zero_dollars_within_checking()" classname="banking.TransferCommandProcessorTest" time="0.0"/>
+  <testcase name="transfer_zero_dollars_from_savings_to_checking()" classname="banking.TransferCommandProcessorTest" time="0.001"/>
+  <testcase name="transfer_from_checking_to_savings()" classname="banking.TransferCommandProcessorTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

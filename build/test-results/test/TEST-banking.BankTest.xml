@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="banking.BankTest" tests="8" skipped="0" failures="0" errors="0" timestamp="2023-12-12T00:53:52" hostname="Mustafas-MacBook-Air.local" time="0.003">
+  <properties/>
+  <testcase name="money_is_withdrawn_twice_from_correct_account_through_ID()" classname="banking.BankTest" time="0.0"/>
+  <testcase name="correct_account_is_retrieved()" classname="banking.BankTest" time="0.001"/>
+  <testcase name="money_is_deposited_in_correct_account_through_ID()" classname="banking.BankTest" time="0.0"/>
+  <testcase name="bank_has_two_accounts()" classname="banking.BankTest" time="0.0"/>
+  <testcase name="money_is_withdrawn_from_correct_account_through_ID()" classname="banking.BankTest" time="0.0"/>
+  <testcase name="bank_has_one_account()" classname="banking.BankTest" time="0.0"/>
+  <testcase name="bank_has_no_accounts()" classname="banking.BankTest" time="0.0"/>
+  <testcase name="money_is_deposited_twice_in_correct_account_through_ID()" classname="banking.BankTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

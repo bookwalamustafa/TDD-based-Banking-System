@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="banking.CreateCommandValidatorTest" tests="24" skipped="0" failures="0" errors="0" timestamp="2023-12-12T00:53:52" hostname="Mustafas-MacBook-Air.local" time="0.025">
+  <properties/>
+  <testcase name="more_arguments_than_required()" classname="banking.CreateCommandValidatorTest" time="0.0"/>
+  <testcase name="invalid_account_type()" classname="banking.CreateCommandValidatorTest" time="0.0"/>
+  <testcase name="missing_AMOUNT_for_CD()" classname="banking.CreateCommandValidatorTest" time="0.0"/>
+  <testcase name="APR_with_scientific_notation()" classname="banking.CreateCommandValidatorTest" time="0.0"/>
+  <testcase name="less_arguments_than_required()" classname="banking.CreateCommandValidatorTest" time="0.0"/>
+  <testcase name="lower_limit_AMOUNT()" classname="banking.CreateCommandValidatorTest" time="0.0"/>
+  <testcase name="AMOUNT_is_negative()" classname="banking.CreateCommandValidatorTest" time="0.0"/>
+  <testcase name="upper_limit_APR()" classname="banking.CreateCommandValidatorTest" time="0.0"/>
+  <testcase name="invalid_character_in_APR()" classname="banking.CreateCommandValidatorTest" time="0.006"/>
+  <testcase name="upper_limit_AMOUNT()" classname="banking.CreateCommandValidatorTest" time="0.001"/>
+  <testcase name="APR_is_negative()" classname="banking.CreateCommandValidatorTest" time="0.002"/>
+  <testcase name="arguments_in_wrong_order()" classname="banking.CreateCommandValidatorTest" time="0.001"/>
+  <testcase name="invalid_character_in_BALANCE()" classname="banking.CreateCommandValidatorTest" time="0.0"/>
+  <testcase name="APR_in_range()" classname="banking.CreateCommandValidatorTest" time="0.002"/>
+  <testcase name="missing_ID()" classname="banking.CreateCommandValidatorTest" time="0.0"/>
+  <testcase name="AMOUNT_out_of_range()" classname="banking.CreateCommandValidatorTest" time="0.0"/>
+  <testcase name="APR_out_of_range()" classname="banking.CreateCommandValidatorTest" time="0.0"/>
+  <testcase name="lower_limit_APR()" classname="banking.CreateCommandValidatorTest" time="0.0"/>
+  <testcase name="incorrect_spelling_of_account_type()" classname="banking.CreateCommandValidatorTest" time="0.001"/>
+  <testcase name="AMOUNT_with_scientific_notation()" classname="banking.CreateCommandValidatorTest" time="0.001"/>
+  <testcase name="missing_account_type()" classname="banking.CreateCommandValidatorTest" time="0.0"/>
+  <testcase name="APR_with_two_decimal_places()" classname="banking.CreateCommandValidatorTest" time="0.0"/>
+  <testcase name="AMOUNT_with_decimal_values()" classname="banking.CreateCommandValidatorTest" time="0.001"/>
+  <testcase name="missing_APR()" classname="banking.CreateCommandValidatorTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

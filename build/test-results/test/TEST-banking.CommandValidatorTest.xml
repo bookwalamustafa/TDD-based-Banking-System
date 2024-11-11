@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="banking.CommandValidatorTest" tests="24" skipped="0" failures="0" errors="0" timestamp="2023-12-12T00:53:52" hostname="Mustafas-MacBook-Air.local" time="0.031">
+  <properties/>
+  <testcase name="invalid_spelling_of_withdraw()" classname="banking.CommandValidatorTest" time="0.003"/>
+  <testcase name="validate_command()" classname="banking.CommandValidatorTest" time="0.001"/>
+  <testcase name="valid_deposit_command_for_checkings()" classname="banking.CommandValidatorTest" time="0.001"/>
+  <testcase name="command_with_space_for_create()" classname="banking.CommandValidatorTest" time="0.001"/>
+  <testcase name="valid_ID()" classname="banking.CommandValidatorTest" time="0.004"/>
+  <testcase name="invalid_create_command()" classname="banking.CommandValidatorTest" time="0.0"/>
+  <testcase name="case_sensitive_for_create()" classname="banking.CommandValidatorTest" time="0.001"/>
+  <testcase name="transfer_is_valid()" classname="banking.CommandValidatorTest" time="0.0"/>
+  <testcase name="ID_more_than_eight_digits()" classname="banking.CommandValidatorTest" time="0.0"/>
+  <testcase name="no_arguments_provided()" classname="banking.CommandValidatorTest" time="0.001"/>
+  <testcase name="invalid_character_in_ID()" classname="banking.CommandValidatorTest" time="0.001"/>
+  <testcase name="invalid_spelling_of_transfer()" classname="banking.CommandValidatorTest" time="0.0"/>
+  <testcase name="ID_less_than_eight_digits()" classname="banking.CommandValidatorTest" time="0.001"/>
+  <testcase name="withdraw_is_valid()" classname="banking.CommandValidatorTest" time="0.0"/>
+  <testcase name="everything_incorrect()" classname="banking.CommandValidatorTest" time="0.0"/>
+  <testcase name="valid_deposit_command_for_savings()" classname="banking.CommandValidatorTest" time="0.001"/>
+  <testcase name="pass_time_is_valid()" classname="banking.CommandValidatorTest" time="0.002"/>
+  <testcase name="command_with_space_for_deposit()" classname="banking.CommandValidatorTest" time="0.001"/>
+  <testcase name="missing_create_command()" classname="banking.CommandValidatorTest" time="0.0"/>
+  <testcase name="create_account_that_exists()" classname="banking.CommandValidatorTest" time="0.0"/>
+  <testcase name="case_sensitive_for_deposit()" classname="banking.CommandValidatorTest" time="0.001"/>
+  <testcase name="invalid_deposit_command()" classname="banking.CommandValidatorTest" time="0.0"/>
+  <testcase name="invalid_pass_time()" classname="banking.CommandValidatorTest" time="0.001"/>
+  <testcase name="missing_deposit_command()" classname="banking.CommandValidatorTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

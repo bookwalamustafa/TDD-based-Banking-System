@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="banking.CreateCommandProcessorTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2023-12-12T00:53:52" hostname="Mustafas-MacBook-Air.local" time="0.004">
+  <properties/>
+  <testcase name="account_has_correct_APR()" classname="banking.CreateCommandProcessorTest" time="0.001"/>
+  <testcase name="account_has_correct_ID()" classname="banking.CreateCommandProcessorTest" time="0.0"/>
+  <testcase name="two_accounts_added()" classname="banking.CreateCommandProcessorTest" time="0.001"/>
+  <testcase name="one_account_added()" classname="banking.CreateCommandProcessorTest" time="0.0"/>
+  <testcase name="cd_account_has_correct_balance()" classname="banking.CreateCommandProcessorTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="banking.PassTimeCommandValidatorTest" tests="13" skipped="0" failures="0" errors="0" timestamp="2023-12-12T00:53:52" hostname="Mustafas-MacBook-Air.local" time="0.006">
+  <properties/>
+  <testcase name="more_arguments_than_required()" classname="banking.PassTimeCommandValidatorTest" time="0.0"/>
+  <testcase name="valid_command()" classname="banking.PassTimeCommandValidatorTest" time="0.0"/>
+  <testcase name="less_arguments_than_required()" classname="banking.PassTimeCommandValidatorTest" time="0.0"/>
+  <testcase name="invalid_character_for_time()" classname="banking.PassTimeCommandValidatorTest" time="0.0"/>
+  <testcase name="time_cannot_be_more_than_zero()" classname="banking.PassTimeCommandValidatorTest" time="0.0"/>
+  <testcase name="check_upper_boundary_for_time()" classname="banking.PassTimeCommandValidatorTest" time="0.0"/>
+  <testcase name="invalid_character_in_pass()" classname="banking.PassTimeCommandValidatorTest" time="0.0"/>
+  <testcase name="check_lower_boundary_for_time()" classname="banking.PassTimeCommandValidatorTest" time="0.0"/>
+  <testcase name="no_argument_provided()" classname="banking.PassTimeCommandValidatorTest" time="0.001"/>
+  <testcase name="time_cannot_be_zero()" classname="banking.PassTimeCommandValidatorTest" time="0.0"/>
+  <testcase name="everything_incorrect()" classname="banking.PassTimeCommandValidatorTest" time="0.0"/>
+  <testcase name="typo_in_pass_command()" classname="banking.PassTimeCommandValidatorTest" time="0.0"/>
+  <testcase name="time_is_negative()" classname="banking.PassTimeCommandValidatorTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

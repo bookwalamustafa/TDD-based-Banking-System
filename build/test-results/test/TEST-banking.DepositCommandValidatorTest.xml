@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="banking.DepositCommandValidatorTest" tests="14" skipped="0" failures="0" errors="0" timestamp="2023-12-12T00:53:52" hostname="Mustafas-MacBook-Air.local" time="0.008">
+  <properties/>
+  <testcase name="scientific_notation_in_amount()" classname="banking.DepositCommandValidatorTest" time="0.001"/>
+  <testcase name="upper_limit_amount_for_savings()" classname="banking.DepositCommandValidatorTest" time="0.0"/>
+  <testcase name="upper_limit_amount_for_checking()" classname="banking.DepositCommandValidatorTest" time="0.0"/>
+  <testcase name="higher_amount_deposit_for_checking()" classname="banking.DepositCommandValidatorTest" time="0.001"/>
+  <testcase name="arguments_in_wrong_order()" classname="banking.DepositCommandValidatorTest" time="0.0"/>
+  <testcase name="lower_limit_amount_for_checking_and_savings()" classname="banking.DepositCommandValidatorTest" time="0.0"/>
+  <testcase name="deposit_in_bank_that_does_not_exist()" classname="banking.DepositCommandValidatorTest" time="0.002"/>
+  <testcase name="invalid_amount_in_command()" classname="banking.DepositCommandValidatorTest" time="0.001"/>
+  <testcase name="missing_ID()" classname="banking.DepositCommandValidatorTest" time="0.0"/>
+  <testcase name="deposit_negative_amount()" classname="banking.DepositCommandValidatorTest" time="0.0"/>
+  <testcase name="higher_amount_deposit_for_savings()" classname="banking.DepositCommandValidatorTest" time="0.0"/>
+  <testcase name="missing_amount()" classname="banking.DepositCommandValidatorTest" time="0.0"/>
+  <testcase name="double_value_in_amount()" classname="banking.DepositCommandValidatorTest" time="0.001"/>
+  <testcase name="invalid_ID_in_command()" classname="banking.DepositCommandValidatorTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
